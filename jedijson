@@ -1,7 +1,7 @@
 [
   {
     "name": "Yoda",
-    "species": "Unknown",
+    "species": null,
     "classification": "Jedi",
     "lightsaber_color": ["green"],
     "quote": "Do or do not. There is no try.",
