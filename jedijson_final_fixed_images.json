@@ -1053,7 +1053,9 @@
     "name": "Bo-Katan Kryze",
     "species": "Human",
     "classification": "Mandalorian",
-    "lightsaber_color": ["black"],
+    "lightsaber_color": [
+      "black"
+     ],
     "quote": [
       "I am Bo-Katan of Clan Kryze.",
       "Your time is over."
