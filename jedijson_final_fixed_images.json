@@ -934,7 +934,7 @@
     "homeworld": "Corellia",
     "height_cm": 180,
     "weight_kg": 80,
-    "ship": null
+    "ship": "Millennium Falcon"
   },
   {
     "name": "Chewbacca",
@@ -961,7 +961,7 @@
     "homeworld": "Kashyyyk",
     "height_cm": 228,
     "weight_kg": 112,
-    "ship": null
+    "ship": "Millennium Falcon"
   },
   {
     "name": "Boba Fett",
@@ -985,7 +985,7 @@
     "homeworld": "Kamino",
     "height_cm": 183,
     "weight_kg": 78,
-    "ship": null
+    "ship": "Slave One"
   },
   {
     "name": "C-3PO",
