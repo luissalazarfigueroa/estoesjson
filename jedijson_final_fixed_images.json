@@ -1,0 +1,1152 @@
+[
+  {
+    "name": "Yoda",
+    "species": null,
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Do or do not. There is no try."
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "V",
+      "VI",
+      "VIII",
+      "IX (voice)"
+    ],
+    "master": "N'Kata Del Gormo",
+    "padawan": "Luke Skywalker",
+    "image": "https://static.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest?cb=20150206140125",
+    "birth_year": "896 BBY",
+    "death_year": "4 ABY",
+    "homeworld": "Unknown",
+    "height_cm": 66,
+    "weight_kg": 17,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue"
+    ],
+    "quote": [
+      "Hello there."
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V (voice)",
+      "VI (voice)",
+      "IX (voice)"
+    ],
+    "master": "Qui-Gon Jinn",
+    "padawan": "Anakin Skywalker",
+    "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg/revision/latest?cb=20111115052816",
+    "birth_year": "57 BBY",
+    "death_year": "0 BBY",
+    "homeworld": "Stewjon",
+    "height_cm": 182,
+    "weight_kg": 77,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Anakin Skywalker",
+    "species": "Human",
+    "classification": "Jedi/Sith",
+    "lightsaber_color": [
+      "blue",
+      "red"
+    ],
+    "quote": [
+      "This is where the fun begins."
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "VI",
+      "IX (voice)"
+    ],
+    "master": "Obi-Wan Kenobi",
+    "padawan": "Ahsoka Tano",
+    "image": "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest?cb=20130621175844",
+    "birth_year": "41.9 BBY",
+    "death_year": "4 ABY",
+    "homeworld": "Tatooine",
+    "height_cm": 188,
+    "weight_kg": 84,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Luke Skywalker",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue",
+      "green"
+    ],
+    "quote": [
+      "I am a Jedi, like my father before me."
+    ],
+    "movies": [
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX (voice)"
+    ],
+    "master": "Yoda",
+    "padawan": "Rey",
+    "image": "https://static.wikia.nocookie.net/starwars/images/6/6c/LukeSkywalker-RotJAVA.png/revision/latest?cb=20250314013820",
+    "birth_year": "19 BBY",
+    "death_year": "34 ABY",
+    "homeworld": "Tatooine",
+    "height_cm": 172,
+    "weight_kg": 73,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Rey",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue",
+      "yellow"
+    ],
+    "quote": [
+      "I am all the Jedi."
+    ],
+    "movies": [
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "master": "Leia Organa",
+    "padawan": "Unknown",
+    "image": "https://static.wikia.nocookie.net/starwars/images/2/2b/Rey_TROS_Fathead.png/revision/latest?cb=20231113074423",
+    "birth_year": "15 ABY",
+    "death_year": "Unknown",
+    "homeworld": "Jakku",
+    "height_cm": 170,
+    "weight_kg": 54,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Mace Windu",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "purple"
+    ],
+    "quote": [
+      "The oppression of the Sith will never return!"
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "IX (voice)"
+    ],
+    "master": "Cyslin Myr",
+    "padawan": "Depa Billaba",
+    "image": "https://static.wikia.nocookie.net/starwars/images/2/27/MaceWindu_-WoSW.png/revision/latest?cb=20220914013358",
+    "birth_year": "72 BBY",
+    "death_year": "19 BBY",
+    "homeworld": "Haruun Kal",
+    "height_cm": 188,
+    "weight_kg": 84,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Ahsoka Tano",
+    "species": "Togruta",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green",
+      "blue",
+      "white"
+    ],
+    "quote": [
+      "I am no Jedi."
+    ],
+    "movies": [
+      "IX (voice)"
+    ],
+    "master": "Anakin Skywalker",
+    "padawan": "Unknown",
+    "image": "https://static.wikia.nocookie.net/starwars/images/2/27/Ahsoka-Tano-AG-2023.png/revision/latest/scale-to-width-down/1000?cb=20231009063143",
+    "birth_year": "36 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Shili",
+    "height_cm": 161,
+    "weight_kg": 55,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Qui-Gon Jinn",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Feel, don't think. Trust your instincts."
+    ],
+    "movies": [
+      "I",
+      "III (voice)",
+      "IX (voice)"
+    ],
+    "master": "Dooku",
+    "padawan": "Obi-Wan Kenobi",
+    "image": "https://static.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg/revision/latest/scale-to-width-down/1000?cb=20180430174809",
+    "birth_year": "92 BBY",
+    "death_year": "32 BBY",
+    "homeworld": "Coruscant",
+    "height_cm": 193,
+    "weight_kg": 89,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Leia Organa",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue"
+    ],
+    "quote": [
+      "Hope is like the sun. If you only believe in it when you see it, you'll never make it through the night."
+    ],
+    "movies": [
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "master": "Luke Skywalker",
+    "padawan": "Rey",
+    "image": "https://static.wikia.nocookie.net/starwars/images/f/f1/Leia_Organa_TROS.png/revision/latest/scale-to-width-down/1000?cb=20200102034101",
+    "birth_year": "19 BBY",
+    "death_year": "35 ABY",
+    "homeworld": "Alderaan",
+    "height_cm": 150,
+    "weight_kg": 49,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Luminara Unduli",
+    "species": "Mirialan",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "No enemy is more dangerous than doubt."
+    ],
+    "movies": [
+      "II",
+      "III",
+      "IX (voice)"
+    ],
+    "master": "Unknown",
+    "padawan": "Barriss Offee",
+    "image": "https://static.wikia.nocookie.net/starwars/images/9/91/LuminaraUnduli-Encyclopedia.png/revision/latest?cb=20180206232118",
+    "birth_year": "Unknown",
+    "death_year": "19 BBY",
+    "homeworld": "Mirial",
+    "height_cm": 176,
+    "weight_kg": 58,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Aayla Secura",
+    "species": "Twi'lek",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue"
+    ],
+    "quote": [
+      "Calm in the storm, a Jedi must be. Only then can we bring peace."
+    ],
+    "movies": [
+      "II",
+      "III",
+      "IX (voice)"
+    ],
+    "master": "Quinlan Vos",
+    "padawan": "Unknown",
+    "image": "https://static.wikia.nocookie.net/starwars/images/5/59/AaylaSecura-SWYBYNE.png/revision/latest?cb=20240313002805",
+    "birth_year": "48 BBY",
+    "death_year": "19 BBY",
+    "homeworld": "Ryloth",
+    "height_cm": 178,
+    "weight_kg": 55,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Adi Gallia",
+    "species": "Tholothian",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue"
+    ],
+    "quote": [
+      "Wisdom lights the path where courage alone would falter."
+    ],
+    "movies": [
+      "I",
+      "IX (voice)"
+    ],
+    "master": "Unknown",
+    "padawan": "Unknown",
+    "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/AdiGallia2-SWE.png/revision/latest?cb=20240922163922",
+    "birth_year": "Unknown",
+    "death_year": "20 BBY",
+    "homeworld": "Coruscant",
+    "height_cm": 184,
+    "weight_kg": 61,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Eeth Koth",
+    "species": "Zabrak",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Faith in the Force gives strength to rise, even when the galaxy falls."
+    ],
+    "movies": [
+      "I",
+      "The Clone Wars"
+    ],
+    "master": "Unknown",
+    "padawan": "Unknown",
+    "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png/revision/latest?cb=20240210054050",
+    "birth_year": "Unknown",
+    "death_year": "Between 19\u20130 BBY",
+    "homeworld": "Iridonia",
+    "height_cm": 180,
+    "weight_kg": 75,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Agen Kolar",
+    "species": "Zabrak",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green",
+      "blue"
+    ],
+    "quote": [
+      "The will of the Force is not always gentle, but it is always just."
+    ],
+    "movies": [
+      "II",
+      "III"
+    ],
+    "master": "Unknown",
+    "padawan": "Unknown",
+    "image": "https://static.wikia.nocookie.net/starwars/images/4/44/Agen_Kolar_SWCT.png/revision/latest?cb=20170713061723",
+    "birth_year": "Unknown",
+    "death_year": "19 BBY",
+    "homeworld": "Iridonia",
+    "height_cm": 185,
+    "weight_kg": 78,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Ezra Bridger",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "quote": [
+      "I'm going to do what I have to do, even if it's not the Jedi way."
+    ],
+    "movies": [
+      "Rebels",
+      "Ahsoka"
+    ],
+    "master": "Kanan Jarrus",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/a/ad/Ezra_Bridger_character_poster.png/revision/latest?cb=20250114174805",
+    "birth_year": "19 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Lothal",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Darth Maul",
+    "species": "Zabrak (Dathomirian)",
+    "classification": "Sith",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "At last we will reveal ourselves to the Jedi. At last we will have revenge."
+    ],
+    "movies": [
+      "I",
+      "Solo"
+    ],
+    "master": "Darth Sidious",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png/revision/latest?cb=20140209162228",
+    "birth_year": "54 BBY",
+    "death_year": "2 BBY",
+    "homeworld": "Dathomir",
+    "height_cm": 175,
+    "weight_kg": 80,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Darth Sidious (Palpatine)",
+    "species": "Human",
+    "classification": "Sith",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "Power! Unlimited power!"
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "V",
+      "VI",
+      "IX"
+    ],
+    "master": "Darth Plagueis",
+    "padawan": "Darth Maul, Darth Tyranus, Darth Vader",
+    "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/Palpatine-CEUEEd.png/revision/latest/scale-to-width-down/1000?cb=20250105171652",
+    "birth_year": "82 BBY",
+    "death_year": "5 ABY, 35 ABY (final)",
+    "homeworld": "Naboo",
+    "height_cm": 170,
+    "weight_kg": 75,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Darth Vader",
+    "species": "Human",
+    "classification": "Sith",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "I find your lack of faith disturbing."
+    ],
+    "movies": [
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "Rogue One",
+      "Obi-Wan Kenobi"
+    ],
+    "master": "Darth Sidious",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/9/94/Vaderrotj.jpg/revision/latest?cb=20070418231644",
+    "birth_year": "41.9 BBY",
+    "death_year": "4 ABY",
+    "homeworld": "Tatooine",
+    "height_cm": 202,
+    "weight_kg": 120,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Count Dooku",
+    "species": "Human",
+    "classification": "Sith (former Jedi Master)",
+    "lightsaber_color": [
+      "red",
+      "blue"
+    ],
+    "quote": [
+      "I've become more powerful than any Jedi. Even you."
+    ],
+    "movies": [
+      "II",
+      "III"
+    ],
+    "master": "Darth Sidious",
+    "padawan": "Qui-Gon Jinn",
+    "image": "https://static.wikia.nocookie.net/starwars/images/5/5f/Dooku-SWBC61.png/revision/latest?cb=20241118020049",
+    "birth_year": "102 BBY",
+    "death_year": "19 BBY",
+    "homeworld": "Serenno",
+    "height_cm": 193,
+    "weight_kg": 85,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Kylo Ren",
+    "species": "Human",
+    "classification": "Dark Side (Knight of Ren / Sith sympathizer)",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "Let the past die. Kill it if you have to."
+    ],
+    "movies": [
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "master": "Luke Skywalker (former), Snoke",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/b/bc/KyloRenVFcover-TROS.png/revision/latest?cb=20250126000852",
+    "birth_year": "5 ABY",
+    "death_year": "35 ABY",
+    "homeworld": "Chandrila",
+    "height_cm": 189,
+    "weight_kg": 89,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Baylan Skoll",
+    "species": "Human",
+    "classification": "Dark Side (Former Jedi)",
+    "lightsaber_color": [
+      "orangered"
+    ],
+    "quote": [
+      "I see the path ahead... and it's leading somewhere new."
+    ],
+    "movies": [
+      "Ahsoka"
+    ],
+    "master": "Unknown",
+    "padawan": "Shin Hati",
+    "image": "https://static.wikia.nocookie.net/starwars/images/9/9f/BaylanSkoll-YearInReview2023.png/revision/latest?cb=20241122044807",
+    "birth_year": "Before 19 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Unknown",
+    "height_cm": 193,
+    "weight_kg": 100,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Shin Hati",
+    "species": "Human",
+    "classification": "Dark Side Apprentice",
+    "lightsaber_color": [
+      "orangered"
+    ],
+    "quote": [
+      "We are no Jedi."
+    ],
+    "movies": [
+      "Ahsoka"
+    ],
+    "master": "Baylan Skoll",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/7/71/Shin_Hati_profile.png/revision/latest?cb=20231007072117",
+    "birth_year": "Unknown",
+    "death_year": "Unknown",
+    "homeworld": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 57,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "The Stranger (a.k.a. Marrok)",
+    "species": "Unknown (possibly human)",
+    "classification": "Dark Side (Inquisitor, corrupted)",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "Silent presence."
+    ],
+    "movies": [
+      "Ahsoka"
+    ],
+    "master": "Morgan Elsbeth",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/6/68/Marrok-AG.png/revision/latest?cb=20240615193149",
+    "birth_year": "Unknown",
+    "death_year": "9 ABY",
+    "homeworld": "Unknown",
+    "height_cm": 185,
+    "weight_kg": 80,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "The Grand Inquisitor",
+    "species": "Pau'an",
+    "classification": "Dark Side (Inquisitor)",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "The Jedi cannot help what they are. Their compassion leaves a trail."
+    ],
+    "movies": [
+      "Obi-Wan Kenobi"
+    ],
+    "master": "Darth Vader",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/3/35/GrandInquisitor-OWKpVI.png/revision/latest?cb=20241217045243",
+    "birth_year": "Unknown",
+    "death_year": "Unknown",
+    "homeworld": "Utapau",
+    "height_cm": 200,
+    "weight_kg": 90,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Reva Sevander (Third Sister)",
+    "species": "Human",
+    "classification": "Dark Side (Inquisitor, former Jedi youngling)",
+    "lightsaber_color": [
+      "red"
+    ],
+    "quote": [
+      "He killed the others. I played dead."
+    ],
+    "movies": [
+      "Obi-Wan Kenobi"
+    ],
+    "master": "Darth Vader",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/f/f8/ThirdSister-OWK1.png/revision/latest?cb=20220703193146",
+    "birth_year": "Around 19 BBY",
+    "death_year": "Survived",
+    "homeworld": "Unknown",
+    "height_cm": 170,
+    "weight_kg": 58,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Plo Koon",
+    "species": "Kel Dor",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "naranja"
+    ],
+    "quote": [
+      "The Force is strong in us all, but it is our actions that define whether we serve the light or fall to the dark."
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III"
+    ],
+    "master": "Tyvokka",
+    "padawan": "Bultar Swan",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/b/bf/PloKoonCardTrader.png/revision/latest?cb=20200324133638",
+    "birth_year": "382 ABY",
+    "death_year": "19 ABY",
+    "homeworld": "Dorin",
+    "height_cm": 188,
+    "weight_kg": 80,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Quinlan Vos",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "The shadow of war follows, but I choose to walk the light."
+    ],
+    "movies": [
+      "The Phantom Menace",
+      "Obi-Wan Kenobi (mentioned)"
+    ],
+    "master": "Tholme",
+    "padawan": "Aayla Secura",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTMR3rKRtF_9jux0v4Ar0AFdxwOt1NhMwVLOYl8_BiYX0h_slK6EVMZFnIXNCmJ7_O6g&usqp=CAU",
+    "birth_year": "Unknown",
+    "death_year": "Unknown",
+    "homeworld": "Kiffu",
+    "height_cm": 190,
+    "weight_kg": 85,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Yaddle",
+    "species": null,
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Wisdom is not in how long we live, but how deeply we listen to the Force."
+    ],
+    "movies": [
+      "The Phantom Menace"
+    ],
+    "master": "Unknown",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/7/7f/Yaddle-SWCT.png/revision/latest?cb=20200919224329",
+    "birth_year": "509 BBY",
+    "death_year": "32 BBY",
+    "homeworld": "Unknown",
+    "height_cm": 61,
+    "weight_kg": 17,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Ki-Adi-Mundi",
+    "species": "Cerean",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue"
+    ],
+    "quote": [
+      "A Jedi must be the guardian of peace, even in the heart of war."
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III"
+    ],
+    "master": "Yoda",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/9/9e/KiAdiMundi.jpg/revision/latest?cb=20091223112454",
+    "birth_year": "92 BBY",
+    "death_year": "19 BBY",
+    "homeworld": "Cerea",
+    "height_cm": 198,
+    "weight_kg": 82,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Coleman Trebor",
+    "species": "Vurk",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Courage must be swift, but never blind."
+    ],
+    "movies": [
+      "Attack of the Clones"
+    ],
+    "master": "Unknown",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/ColemanTrebor-DB.png/revision/latest?cb=20150920194631",
+    "birth_year": "Unknown",
+    "death_year": "22 BBY",
+    "homeworld": "Sembla",
+    "height_cm": 200,
+    "weight_kg": 85,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Depa Billaba",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Through the Force, we become more than ourselves."
+    ],
+    "movies": [
+      "The Phantom Menace",
+      "Revenge of the Sith",
+      "The Bad Batch"
+    ],
+    "master": "Mace Windu",
+    "padawan": "Caleb Dume (Kanan Jarrus)",
+    "image": "https://static.wikia.nocookie.net/starwars/images/a/aa/Depa-32BBY.jpg/revision/latest?cb=20071002165201",
+    "birth_year": "Unknown",
+    "death_year": "19 BBY",
+    "homeworld": "Chalacta",
+    "height_cm": 172,
+    "weight_kg": 58,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Jocasta Nu",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "blue"
+    ],
+    "quote": [
+      "If it's not in our archives, it does not exist."
+    ],
+    "movies": [
+      "Attack of the Clones"
+    ],
+    "master": "Unknown",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/1/15/Jocasta_Nu_SWE.png/revision/latest?cb=20180910214036",
+    "birth_year": "Unknown",
+    "death_year": "Between 19\u20131 BBY",
+    "homeworld": "Coruscant",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Bultar Swan",
+    "species": "Human",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Balance is found not in power, but in restraint."
+    ],
+    "movies": [
+      "Attack of the Clones"
+    ],
+    "master": "Plo Koon",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/3/30/Bultar_Swan.jpg/revision/latest?cb=20120111002621",
+    "birth_year": "Unknown",
+    "death_year": "Unknown",
+    "homeworld": "Kuat",
+    "height_cm": 170,
+    "weight_kg": 56,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Oppo Rancisis",
+    "species": "Thisspiasian",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Patience sharpens the blade more than any stone."
+    ],
+    "movies": [
+      "The Phantom Menace",
+      "Attack of the Clones"
+    ],
+    "master": "Yaddle",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/4/40/Oppo_rancisis2.jpg/revision/latest?cb=20160610154726",
+    "birth_year": "206 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Thisspias",
+    "height_cm": 170,
+    "weight_kg": 70,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Coleman Kcaj",
+    "species": "Ongree",
+    "classification": "Jedi",
+    "lightsaber_color": [
+      "green"
+    ],
+    "quote": [
+      "Truth and clarity lie beneath the surface \u2014 always."
+    ],
+    "movies": [
+      "Revenge of the Sith"
+    ],
+    "master": "Unknown",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwarsrevamped/images/a/a0/Coleman_Kcaj_%28art_by_Kouji_Tajima%29.png/revision/latest?cb=20230524013651",
+    "birth_year": "Unknown",
+    "death_year": "Unknown",
+    "homeworld": "Skustell",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "isForceSensitive": true,
+    "ship": null
+  },
+  {
+    "name": "Han Solo",
+    "species": "Human",
+    "classification": "Smuggler",
+    "lightsaber_color": [],
+    "quote": [
+      "Never tell me the odds.",
+      "Laugh it up, fuzzball."
+    ],
+    "movies": [
+      "IV",
+      "V",
+      "VI",
+      "VII"
+    ],
+    "master": "None",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/f/fe/Han_Solo%27s_blaster.jpg/revision/latest?cb=20151030182246",
+    "birth_year": "29 BBY",
+    "death_year": "34 ABY",
+    "homeworld": "Corellia",
+    "height_cm": 180,
+    "weight_kg": 80,
+    "ship": null
+  },
+  {
+    "name": "Chewbacca",
+    "species": "Wookiee",
+    "classification": "Co-pilot",
+    "lightsaber_color": [],
+    "quote": [
+      "Rrrrghhh!"
+    ],
+    "movies": [
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "master": "None",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png/revision/latest?cb=20221108044917",
+    "birth_year": "200 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Kashyyyk",
+    "height_cm": 228,
+    "weight_kg": 112,
+    "ship": null
+  },
+  {
+    "name": "Boba Fett",
+    "species": "Human (Clone)",
+    "classification": "Bounty Hunter",
+    "lightsaber_color": [],
+    "quote": [
+      "He's no good to me dead."
+    ],
+    "movies": [
+      "V",
+      "VI",
+      "The Mandalorian",
+      "The Book of Boba Fett"
+    ],
+    "master": "Jango Fett",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/6/62/BobaFettHS-SWI213.png/revision/latest?cb=20250317160100",
+    "birth_year": "32 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Kamino",
+    "height_cm": 183,
+    "weight_kg": 78,
+    "ship": null
+  },
+  {
+    "name": "C-3PO",
+    "species": "Droid",
+    "classification": "Protocol Droid",
+    "lightsaber_color": [],
+    "quote": [
+      "I am C-3PO, human-cyborg relations.",
+      "We're doomed!"
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "master": "Anakin Skywalker",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/a/a2/C-3PO-TROSTGG.png/revision/latest?cb=20230706042830",
+    "birth_year": "112 BBY",
+    "death_year": "N/A",
+    "homeworld": "Tatooine",
+    "height_cm": 167,
+    "weight_kg": 75,
+    "model": "3PO-series",
+    "ship": null
+  },
+  {
+    "name": "R2-D2",
+    "species": "Droid",
+    "classification": "Astromech Droid",
+    "lightsaber_color": [],
+    "quote": [
+      "Beep-beep-boop!",
+      "Wooooo!"
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "master": "Anakin Skywalker",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/9/95/R2-D2-TROSOCE.png/revision/latest?cb=20240104043013",
+    "birth_year": "33 BBY",
+    "death_year": "N/A",
+    "homeworld": "Naboo",
+    "height_cm": 96,
+    "weight_kg": 32,
+    "model": "R2-series",
+    "ship": null
+  },
+  {
+    "name": "Bo-Katan Kryze",
+    "species": "Human",
+    "classification": "Mandalorian",
+    "lightsaber_color": [],
+    "quote": [
+      "I am Bo-Katan of Clan Kryze.",
+      "Your time is over."
+    ],
+    "movies": [
+      "The Mandalorian",
+      "The Clone Wars",
+      "Rebels"
+    ],
+    "master": "None",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/starwars/images/e/ec/BoKatanKryze-TTG2024.png/revision/latest?cb=20250205003033",
+    "birth_year": "Circa 50 BBY",
+    "death_year": "Unknown",
+    "homeworld": "Mandalore",
+    "height_cm": 170,
+    "weight_kg": 60,
+    "isForceSensitive": false,
+    "ship": "Gauntlet Fighter"
+  },
+  {
+    "name": "General Grievous",
+    "species": "Kaleesh (cyborg)",
+    "classification": "General",
+    "lightsaber_color": [
+      "blue",
+      "green"
+    ],
+    "quote": [
+      "Your lightsabers will make a fine addition to my collection.",
+      "You are doomed!"
+    ],
+    "movies": [
+      "Revenge of the Sith",
+      "The Clone Wars"
+    ],
+    "master": "Dooku",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/d/de/Grievoushead.jpg/revision/latest?cb=20101204131756",
+    "birth_year": "Unknown",
+    "death_year": "19 BBY",
+    "homeworld": "Kalee",
+    "height_cm": 216,
+    "weight_kg": 159,
+    "isForceSensitive": false,
+    "ship": "Soulless One"
+  },
+  {
+    "name": "Padm\u00e9 Amidala",
+    "species": "Human",
+    "classification": "Senator",
+    "lightsaber_color": [],
+    "quote": [
+      "So this is how liberty dies... with thunderous applause.",
+      "I was not elected to watch my people suffer and die."
+    ],
+    "movies": [
+      "I",
+      "II",
+      "III"
+    ],
+    "master": "None",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/disney-star-wars/images/6/6a/Padme_Amidala.jpg/revision/latest/scale-to-width-down/1200?cb=20200308150237",
+    "birth_year": "46 BBY",
+    "death_year": "19 BBY",
+    "homeworld": "Naboo",
+    "height_cm": 165,
+    "weight_kg": 45,
+    "isForceSensitive": false,
+    "ship": "Naboo Royal Starship"
+  },
+  {
+    "name": "Cassian Andor",
+    "species": "Human",
+    "classification": "Rebel Spy",
+    "lightsaber_color": [],
+    "quote": [
+      "Everything I did, I did for the Rebellion."
+    ],
+    "movies": [
+      "Rogue One",
+      "Andor"
+    ],
+    "master": "None",
+    "padawan": "None",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/9/95/Cassian_Andor_Fathead.png/revision/latest?cb=20161217190557",
+    "birth_year": "26 BBY",
+    "death_year": "0 BBY",
+    "homeworld": "Fest",
+    "height_cm": 177,
+    "weight_kg": 70,
+    "isForceSensitive": false,
+    "ship": "U-wing"
+  }
+]
