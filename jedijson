@@ -398,4 +398,21 @@
     "homeworld": "Unknown",
     "height_cm": 170,
     "weight_kg": 58
-  }]
+  },
+  {
+  "name": "Plo Koon",
+  "species": "Kel Dor",
+  "classification": "Jedi",
+  "lightsaber_color": ["naranja"],
+  "quote": "La protección de la vida es nuestra misión principal.",
+  "movies": ["I", "II", "III"],
+  "master": "Tyvokka",
+  "padawan": "Bultar Swan",
+  "image": "https://static.wikia.nocookie.net/esstarwars/images/3/32/PloKoon.jpg/revision/latest?cb=20090906181223",
+  "birth_year": "382 ABY",
+  "death_year": "19 ABY",
+  "homeworld": "Dorin",
+  "height_cm": 188,
+  "weight_kg": 80
+}
+]
