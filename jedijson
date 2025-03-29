@@ -211,7 +211,7 @@
     "name": "Agen Kolar",
     "species": "Zabrak",
     "classification": "Jedi",
-    "lightsaber_color": ["green"],
+    "lightsaber_color": ["green", "blue"],
     "quote": "No quote available.",
     "movies": ["II", "III"],
     "master": "Unknown",
